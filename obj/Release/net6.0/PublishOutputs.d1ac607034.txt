@@ -1,0 +1,7 @@
+C:\Users\z00436mk\OneDrive - Siemens Healthineers\trainings\AZ204\MyAzureSolution\WebDemoApp\obj\Release\net6.0\PubTmp\Out\WebDemoApp.exe
+C:\Users\z00436mk\OneDrive - Siemens Healthineers\trainings\AZ204\MyAzureSolution\WebDemoApp\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\z00436mk\OneDrive - Siemens Healthineers\trainings\AZ204\MyAzureSolution\WebDemoApp\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\z00436mk\OneDrive - Siemens Healthineers\trainings\AZ204\MyAzureSolution\WebDemoApp\obj\Release\net6.0\PubTmp\Out\WebDemoApp.dll
+C:\Users\z00436mk\OneDrive - Siemens Healthineers\trainings\AZ204\MyAzureSolution\WebDemoApp\obj\Release\net6.0\PubTmp\Out\WebDemoApp.deps.json
+C:\Users\z00436mk\OneDrive - Siemens Healthineers\trainings\AZ204\MyAzureSolution\WebDemoApp\obj\Release\net6.0\PubTmp\Out\WebDemoApp.runtimeconfig.json
+C:\Users\z00436mk\OneDrive - Siemens Healthineers\trainings\AZ204\MyAzureSolution\WebDemoApp\obj\Release\net6.0\PubTmp\Out\WebDemoApp.pdb
